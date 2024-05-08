@@ -11,6 +11,21 @@
 [![Tests](https://github.com/USERID/REPO/workflows/WORKFLOW-FILE-NAME/badge.svg)](https://github.com/USERID/REPO/actions/workflows/WORKFLOW-FILE-NAME.yml)
 [![Coverage](https://codecov.io/gh/USERID/REPO/branch/main/graph/badge.svg)](https://codecov.io/gh/USERID/REPO)
 [![Code Quality](https://www.codefactor.io/repository/github/USERID/REPO/badge)](https://www.codefactor.io/repository/github/USERID/REPO)
+<p align="center">
+  <a href="https://github.com/USERID/REPO/actions/workflows/WORKFLOW-FILE-NAME.yml">
+    <img src="https://github.com/USERID/REPO/workflows/WORKFLOW-FILE-NAME/badge.svg" alt="Build Status">
+  </a>
+  <a href="https://github.com/USERID/REPO/actions/workflows/WORKFLOW-FILE-NAME.yml">
+    <img src="https://github.com/USERID/REPO/workflows/WORKFLOW-FILE-NAME/badge.svg" alt="Tests">
+  </a>
+  <a href="https://codecov.io/gh/USERID/REPO">
+    <img src="https://codecov.io/gh/USERID/REPO/branch/main/graph/badge.svg" alt="Coverage">
+  </a>
+  <a href="https://www.codefactor.io/repository/github/USERID/REPO">
+    <img src="https://www.codefactor.io/repository/github/USERID/REPO/badge" alt="Code Quality">
+  </a>
+</p>
+
 
 
 ![Project Screenshot](https://ibb.co/DLYjPQ4)
