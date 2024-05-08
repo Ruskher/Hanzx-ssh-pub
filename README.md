@@ -7,8 +7,9 @@
 - [License](#license)
 - [Contact](#contact)
 
-[![Build Status](https://travis-ci.org/user/repo.svg)](https://travis-ci.org/user/repo)
-
+| Build | Tests | Coverage | Code Quality |
+| :---: | :----: | :------: | :----------: |
+| [![Build Status](https://github.com/USERID/REPO/workflows/WORKFLOW-FILE-NAME/badge.svg)](https://github.com/USERID/REPO/actions/workflows/WORKFLOW-FILE-NAME.yml) | [![Tests](https://github.com/USERID/REPO/workflows/WORKFLOW-FILE-NAME/badge.svg)](https://github.com/USERID/REPO/actions/workflows/WORKFLOW-FILE-NAME.yml) | [![Coverage](https://codecov.io/gh/USERID/REPO/branch/main/graph/badge.svg)](https://codecov.io/gh/USERID/REPO) | [![Code Quality](https://www.codefactor.io/repository/github/USERID/REPO/badge)](https://www.codefactor.io/repository/github/USERID/REPO) |
 ![Project Screenshot](https://ibb.co/DLYjPQ4)
 
 
