@@ -7,7 +7,9 @@
 - [License](#license)
 - [Contact](#contact)
 
-![Project Screenshot](./src/images/https://ibb.co/DLYjPQ4)
+[![Build Status](https://travis-ci.org/user/repo.svg)](https://travis-ci.org/user/repo)
+
+![Project Screenshot](https://ibb.co/DLYjPQ4)
 
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
