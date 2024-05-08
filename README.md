@@ -7,7 +7,7 @@
 - [License](#license)
 - [Contact](#contact)
 
-![Project Screenshot](./src/images/screenshot.png)
+![Project Screenshot](./src/images/https://ibb.co/DLYjPQ4)
 
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
